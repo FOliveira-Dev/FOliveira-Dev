@@ -6,7 +6,7 @@
 - **CEO na [Nova Forma 3D](https://novaforma3d.com.br/)**    
 - **Especialista em Telecomunicações**  
 - **Desenvolvedor Full Stack**  
-- **Engenheiro de Computação**  
+- **Engenheiro de Computação em Formação**   
 - **Especialista em Manufatura Aditiva (Maker 3D)**  
 
 ## Experiência Profissional
@@ -54,17 +54,31 @@
   ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)  
   ![Oracle VM](https://img.shields.io/badge/-Oracle_VM-F80000?style=flat-square&logo=oracle&logoColor=white)  
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
-  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+ ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## Estatísticas do GitHub
 
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOliveira-Dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOliveira-Dev&layout=compact&theme=radical)
+ ![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FOliveira-Dev&show_icons=true&theme=radical)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FOliveira-Dev&layout=compact&theme=radical)
 
 ## Projetos em Destaque
 
-- **Tio_Bill_bot**  
-  Bot desenvolvido em Python para automatizar tarefas no GitHub.
+- **Zabbix de Alta Disponibilidade**  
+  Implementação do Zabbix Server com configuração de alta disponibilidade, utilizando Docker e MySQL para garantir resiliência e 
+  escalabilidade com múltiplos nós. O projeto visa otimizar o monitoramento de infraestrutura crítica, assegurando que o sistema 
+  continue operando sem interrupções, mesmo em cenários de falhas.  
+  [Ver no GitHub](https://github.com/brsuperinternet/MySQL-High-Availability)
+  ![Zabbix-High-Availability](https://github.com/brsuperinternet/MySQL-High-Availability)
+
+## Projetos em Destaque
+
+- **MySQL High Availability**  
+  Projeto de alta disponibilidade para MySQL, utilizando Docker e ferramentas de clustering para garantir redundância, escalabilidade 
+  e recuperação rápida em caso de falha. A arquitetura foi projetada para ambientes de produção críticos, assegurando que o banco de 
+  dados continue operacional mesmo em cenários de falhas em um ou mais nós. A solução é ideal para empresas que buscam garantir a 
+  continuidade de seus serviços com mínima interrupção.  
+  [Ver no GitHub](https://github.com/brsuperinternet/MySQL-High-Availability)  
+  ![MySQL-High-Availability](https://github.com/brsuperinternet/MySQL-High-Availability)
 
 - **KIAUH (Klipper Installation And Update Helper)**  
   Ferramenta auxiliar para instalação e atualização do Klipper.
