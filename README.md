@@ -2,23 +2,28 @@
 
 ## Sobre Mim
 
-- **CEO na [Suntik Tecnologia](https://suntiktecnologia.com.br/)**  
+- **CEO na [Suntik Tecnologia](https://suntiktecnologia.com.br/)**
+- **CEO na [Nova Forma 3D](https://novaforma3d.com.br/)**    
 - **Especialista em Telecomunicações**  
 - **Desenvolvedor Full Stack**  
 - **Engenheiro de Computação**  
-- **Maker 3D**  
-- **Pai de 4**  
-- **Jogador de Airsoft**
+- **Especialista em Manufatura Aditiva (Maker 3D)**  
 
 ## Experiência Profissional
 
 - **Suntik Tecnologia**  
-  *CEO*  
-  Liderando projetos inovadores em tecnologia e telecomunicações.
-
-- **BR Super Internet**  
+  *Fundador e CEO*  
   *Especialista em Telecomunicações*  
+  Liderando projetos inovadores em tecnologia e telecomunicações.
   Desenvolvimento e implementação de soluções avançadas em redes e conectividade.
+
+- **Nova Forma 3D**  
+  *Fundador e CEO*  
+  Líder na criação e desenvolvimento de soluções tecnológicas em impressão 3D, atendendo a diversas indústrias e mercados.  
+  Especializado na produção de peças altamente personalizadas, designs exclusivos e produtos funcionais, combinando inovação, precisão 
+  e qualidade técnica.  
+  Implementação de processos avançados de manufatura aditiva, utilizando materiais de alta performance e ferramentas digitais para 
+  entregar experiências únicas aos clientes.
 
 ## Habilidades Técnicas
 
@@ -34,15 +39,22 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 - **Banco de Dados:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 - **Sistemas Operacionais:**  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 - **Ferramentas e Plataformas:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+  ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)  
+  ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)  
+  ![Oracle VM](https://img.shields.io/badge/-Oracle_VM-F80000?style=flat-square&logo=oracle&logoColor=white)  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  
+  ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ## Estatísticas do GitHub
 
