@@ -113,7 +113,8 @@
   ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-- **Impressão 3D e Design:**  
+- **Impressão 3D e Design:**
+  
   ![BambuLab Studio](https://img.shields.io/badge/-BambuLab_Studio-FF6F00?style=flat-square&logo=bamboo&logoColor=white)
   ![Creality Slicer](https://img.shields.io/badge/-Creality_Slicer-1E90FF?style=flat-square&logo=creality&logoColor=white)
   ![Ultimaker Cura](https://img.shields.io/badge/-Ultimaker_Cura-FF9800?style=flat-square&logo=ultimaker&logoColor=white)
