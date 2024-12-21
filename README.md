@@ -1,3 +1,18 @@
+---
+
+<div align="center">
+  <h3><b>📍 Contagem de visitantes do perfil </b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/FOliveira-Dev/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
+
 # Olá, meu nome é Fernando Martins de Oliveira! 👋
 
 ### ⚙️ Sobre mim
@@ -157,19 +172,6 @@
       src="https://github-profile-trophy.vercel.app/?username=FOliveira-Dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
-
----
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/FOliveira-Dev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
 </p>
 
 ---
