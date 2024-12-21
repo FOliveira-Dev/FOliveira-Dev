@@ -1,31 +1,15 @@
-# Olá! Eu sou o Fernando Martins de Oliveira 👋
+# Olá, meu nome é Fernando Martins de Oliveira! 👋
 
-## Sobre Mim
+### ⚙️ Sobre mim
 
-- **CEO na [Suntik Tecnologia](https://www.facebook.com/profile.php?id=61552028676516)**
-- **CEO na [Nova Forma 3D](https://novaforma3d.com.br/)**    
-- **Especialista em Telecomunicações**  
-- **Desenvolvedor Full Stack**  
-- **Engenheiro de Computação em Formação**   
-- **Especialista em Manufatura Aditiva (Maker 3D)**  
+🤔 Explorando novas tecnologias e desenvolvendo soluções.
 
-## Experiência Profissional
+🎓 Estudando Engenharia da Computação na Uninter.
 
-- **Suntik Tecnologia**  
-  *Fundador e CEO*  
-  *Especialista em Telecomunicações com mais de 15 anos de experiencia*  
-  Liderando projetos inovadores em tecnologia e telecomunicações.
-  Desenvolvimento e implementação de soluções avançadas em redes e conectividade.
+💼 Trabalhando como CEO em dupla jornada nas empresas **[Suntik Tecnologia](https://www.facebook.com/profile.php?id=61552028676516)** e **[Nova Forma 3D](https://novaforma3d.com.br/)**.
 
-- **Nova Forma 3D**  
-  *Fundador e CEO*  
-  Líder na criação e desenvolvimento de soluções tecnológicas em impressão 3D, atendendo a diversas indústrias e mercados.  
-  Especializado na produção de peças altamente personalizadas, designs exclusivos e produtos funcionais, combinando inovação, precisão 
-  e qualidade técnica.  
-  Implementação de processos avançados de manufatura aditiva, utilizando materiais de alta performance e ferramentas digitais para 
-  entregar experiências únicas aos clientes.
 
-## Habilidades Técnicas
+## 🚀 Minhas Skills
 
 - **Redes e Infraestrutura:**
   
@@ -128,14 +112,100 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
   ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+---
 
+  ### ⚙️ GitHub Analytics
 
-## Contato
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=FOliveira-Dev&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOliveira-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=FOliveira-Dev&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
- - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-martins-de-oliveira-9b3a9b1b7/)
- - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fernandooliveir4/)  
- - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fernandooliveiraibia)
- - [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5537933009434)
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=FOliveira-Dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/FOliveira-Dev/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+---
+
+## Experiência Profissional
+
+- **Suntik Tecnologia**  
+  *Fundador e CEO*  
+  *Especialista em Telecomunicações com mais de 15 anos de experiencia*  
+  Liderando projetos inovadores em tecnologia e telecomunicações.
+  Desenvolvimento e implementação de soluções avançadas em redes e conectividade.
+
+- **Nova Forma 3D**  
+  *Fundador e CEO*  
+  Líder na criação e desenvolvimento de soluções tecnológicas em impressão 3D, atendendo a diversas indústrias e mercados.  
+  Especializado na produção de peças altamente personalizadas, designs exclusivos e produtos funcionais, combinando inovação, precisão 
+  e qualidade técnica.  
+  Implementação de processos avançados de manufatura aditiva, utilizando materiais de alta performance e ferramentas digitais para 
+  entregar experiências únicas aos clientes.
+
+---
+
+### 💌 Contato ⤵
+<br>
+<p align="left">
+  <a href="mailto:fernandoibia@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/fernando-martins-de-oliveira-9b3a9b1b7/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5537933009434" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/fernandooliveiraibia" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/fernandooliveir4/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 
 ---
