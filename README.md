@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- **CEO na [Suntik Tecnologia](https://suntiktecnologia.com.br/)**
+- **CEO na Suntik Tecnologia**
 - **CEO na [Nova Forma 3D](https://novaforma3d.com.br/)**    
 - **Especialista em Telecomunicações**  
 - **Desenvolvedor Full Stack**  
@@ -35,8 +35,7 @@
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 - **Frameworks e Bibliotecas:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 - **Banco de Dados:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
