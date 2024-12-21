@@ -23,6 +23,7 @@
 
 💼 Trabalhando como CEO em dupla jornada nas empresas **[Suntik Tecnologia](https://www.facebook.com/profile.php?id=61552028676516)** e **[Nova Forma 3D](https://novaforma3d.com.br/)**.
 
+---
 
 ## 🚀 Minhas Skills
 
