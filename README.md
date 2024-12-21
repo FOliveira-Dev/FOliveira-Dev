@@ -13,7 +13,7 @@
 
 - **Suntik Tecnologia**  
   *Fundador e CEO*  
-  *Especialista em Telecomunicações*  
+  *Especialista em Telecomunicações com mais de 15 anos de experiencia*  
   Liderando projetos inovadores em tecnologia e telecomunicações.
   Desenvolvimento e implementação de soluções avançadas em redes e conectividade.
 
