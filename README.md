@@ -174,24 +174,6 @@
 
 ---
 
-## Experiência Profissional
-
-- **Suntik Tecnologia**  
-  *Fundador e CEO*  
-  *Especialista em Telecomunicações com mais de 15 anos de experiencia*  
-  Liderando projetos inovadores em tecnologia e telecomunicações.
-  Desenvolvimento e implementação de soluções avançadas em redes e conectividade.
-
-- **Nova Forma 3D**  
-  *Fundador e CEO*  
-  Líder na criação e desenvolvimento de soluções tecnológicas em impressão 3D, atendendo a diversas indústrias e mercados.  
-  Especializado na produção de peças altamente personalizadas, designs exclusivos e produtos funcionais, combinando inovação, precisão 
-  e qualidade técnica.  
-  Implementação de processos avançados de manufatura aditiva, utilizando materiais de alta performance e ferramentas digitais para 
-  entregar experiências únicas aos clientes.
-
----
-
 ### 💌 Contato ⤵
 <br>
 <p align="left">
