@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-- **CEO na Suntik Tecnologia**
+- **CEO na [Suntik Tecnologia](https://www.facebook.com/profile.php?id=61552028676516)**
 - **CEO na [Nova Forma 3D](https://novaforma3d.com.br/)**    
 - **Especialista em Telecomunicações**  
 - **Desenvolvedor Full Stack**  
