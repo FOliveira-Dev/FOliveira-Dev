@@ -1,15 +1,9 @@
 ---
 
 <div align="center">
-  <h3><b>📍 Contagem de visitantes do perfil </b></h3>
+  <h3><b>📍 Contagem de visitantes do perfil</b></h3>
+  <img src="https://komarev.com/ghpvc/?username=FOliveira-Dev&style=flat-square&color=blue" alt="Contador de visitas" />
 </div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/FOliveira-Dev/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
 
 ---
 
@@ -130,50 +124,11 @@
 
 ---
 
-  ### ⚙️ GitHub Analytics
+### ⚙️ GitHub
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=FOliveira-Dev&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOliveira-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=FOliveira-Dev&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=FOliveira-Dev&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+- Perfil: https://github.com/FOliveira-Dev
+- Repositórios: https://github.com/FOliveira-Dev?tab=repositories
+- Atividade pública: https://github.com/FOliveira-Dev?tab=overview&from=2026-01-01&to=2026-12-31
 
 ---
 
